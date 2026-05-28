@@ -111,8 +111,11 @@ Security Operations Engineer focused on **detection engineering, threat hunting,
 
 ## Education
 
-**M.S. Cybersecurity Analytics & Operations** — The Pennsylvania State University · 2026
-**B.E. Electronics and Communications Engineering** — Jeppiaar Institute of Technology · 2023
+**The Pennsylvania State University** — University Park, PA
+Master of Science, Cybersecurity Analytics & Operations (GPA: 3.89) · Aug 2024 – May 2026
+
+**Jeppiaar Institute of Technology**
+Bachelor of Engineering in Electronics and Communications Engineering (GPA: 3.25) · Aug 2019 – May 2023
 
 ## Let's Connect
 

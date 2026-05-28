@@ -107,15 +107,7 @@ Security Operations Engineer focused on **detection engineering, threat hunting,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahendraravichandran&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahendraravichandran&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahendraravichandran/mahendraravichandran/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ## Certifications
